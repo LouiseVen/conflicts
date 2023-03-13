@@ -1,3 +1,4 @@
+LOCAL
 # conflicts
 Training in conflicts
 
