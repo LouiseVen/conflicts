@@ -1,3 +1,4 @@
+REMOTE
 # conflicts
 Training in conflicts
 
